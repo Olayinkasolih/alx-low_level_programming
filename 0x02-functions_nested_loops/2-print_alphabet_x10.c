@@ -1,12 +1,11 @@
 #include "main.h"
-	/**
-	 *
-	 * print_alphabet_x10 -prints 10 times the alphabet, in lowercase,
-	 * followed by a new line
-	 * Description: 'the program's description'
-	 */
-	void print_alphabet_x10(void)
-	// Description: 'main function'
+/**
+ * print_alphabet_x10 -prints 10 times the alphabet, in lowercase,
+ * followed by a new line
+ * Description: 'the program's description'
+ */
+void print_alphabet_x10(void)
+
 	{
 		char ch;
 		int i;
